@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AccountApp/static/css/main.133a609a.chunk.css",
+    "main.js": "/AccountApp/static/js/main.74cca31f.chunk.js",
+    "main.js.map": "/AccountApp/static/js/main.74cca31f.chunk.js.map",
+    "runtime-main.js": "/AccountApp/static/js/runtime-main.fae435ae.js",
+    "runtime-main.js.map": "/AccountApp/static/js/runtime-main.fae435ae.js.map",
+    "static/js/2.44bea109.chunk.js": "/AccountApp/static/js/2.44bea109.chunk.js",
+    "static/js/2.44bea109.chunk.js.map": "/AccountApp/static/js/2.44bea109.chunk.js.map",
+    "index.html": "/AccountApp/index.html",
+    "precache-manifest.7db6a410664b923b4eca2e29ca16a8ba.js": "/AccountApp/precache-manifest.7db6a410664b923b4eca2e29ca16a8ba.js",
+    "service-worker.js": "/AccountApp/service-worker.js",
+    "static/css/main.133a609a.chunk.css.map": "/AccountApp/static/css/main.133a609a.chunk.css.map",
+    "static/js/2.44bea109.chunk.js.LICENSE.txt": "/AccountApp/static/js/2.44bea109.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae435ae.js",
+    "static/js/2.44bea109.chunk.js",
+    "static/css/main.133a609a.chunk.css",
+    "static/js/main.74cca31f.chunk.js"
+  ]
+}
